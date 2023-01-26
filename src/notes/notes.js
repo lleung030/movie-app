@@ -1,0 +1,8 @@
+/*
+movie reivew
+sign in sign out
+register auth
+navbar
+footer
+play movie song
+*/
